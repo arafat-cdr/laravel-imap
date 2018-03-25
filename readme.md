@@ -3,12 +3,12 @@ This is a simple example of  Webklex/laravel-imap,  Here we are trying to get th
 
 ## In this example we are try to get the mail information form the following folder ...
 
- # *Inbox
- # *Sent mail
- # *Important
- # *Spam
- # *Starred
- # *Trash
- # *Drafts
+ # 1) Inbox
+ # 2) Sent mail
+ # 3) Important
+ # 4) Spam
+ # 5) Starred
+ # 6) Trash
+ # 7) Drafts
 
  We are grateful to Laravel and Webklex/laravel-imap
